@@ -1,0 +1,6 @@
+[project]
+requires-python = ">=3.11.3"
+
+[tool.ruff]
+select = ["E", "F", "UP"]
+line-length = 88
