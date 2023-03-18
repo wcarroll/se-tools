@@ -21,3 +21,6 @@ class RunClient:
 
 def main():
     RunClient("api", "1234541", "testing")
+
+if __name__ == "__main__":
+    main()
